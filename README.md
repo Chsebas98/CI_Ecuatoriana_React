@@ -25,3 +25,4 @@ Y para ejecutar el programa sólo se necesita correrlo con
 npm start
 ```
 > Nota: `Una vez corriendo el programa es necesario en la url cambiar a localhost:3000/register.`
+![Image text] ()
