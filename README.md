@@ -7,7 +7,7 @@
 
 Es necesario una versión de [Node.js](https://nodejs.org/) v15+ para que corra.
 
-Instala todas las dependecias y dependecias de desarrollo y pon a correr el servidor, para instalar todas las dependencias puedes usar yarn o npm.
+Instala todas las dependecias y dependecias de desarrollo y pon a correr el servidor, para instalar todas las dependencias debes usar npm.
 
 ```sh
 cd client
