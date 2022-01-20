@@ -25,4 +25,5 @@ Y para ejecutar el programa sólo se necesita correrlo con
 npm start
 ```
 > Nota: `Una vez corriendo el programa es necesario en la url cambiar a localhost:3000/register.`
+
 ![Image text](https://github.com/Chsebas98/CI_Ecuatoriana_React/blob/master/public/imagen_2022-01-20_181904.png)
